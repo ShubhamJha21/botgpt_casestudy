@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+python-dotenv
+pytest
+sentence-transformers
+=======
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+python-dotenv
+pytest
+sentence-transformers
+>>>>>>> c3b9c2e9a69cb93190c544f3660b30b7366941fb
+faiss-cpu
